@@ -7,7 +7,6 @@ import { Banner } from "./Banner";
  import { Contact } from "./Contact";
  import { Footer } from "./Footer";
 
- import { NavBar } from "./NavBar";
 export const Home=()=> {
   return (
     <div>

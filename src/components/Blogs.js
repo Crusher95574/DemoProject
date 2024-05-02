@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
+import { Container, Row, Col, Tab } from "react-bootstrap";
 import pro1 from "../assets/img/hellokaun.png";
 import pro2 from "../assets/img/Bihar_News.png";
 import pro3 from "../assets/img/marathi_news.png";

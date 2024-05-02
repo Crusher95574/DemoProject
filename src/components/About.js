@@ -37,15 +37,15 @@ export const About = () => {
                         <p>At D2i Technology, we turn the digital dreams of our clients into reality.<br></br> We work closely with our users throughout the development process to ensure that we are aligned with the end goal. We are committed to producing exceptional software for each of our clients.</p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme about-slider">
                             <div className="item">
-                                <img src={meter1} alt="Image" />
+                                <img src={meter1} alt="" />
                                 <h5>Happy Clients</h5>
                             </div>
                             <div className="item">
-                                <img src={meter2} alt="Image" />
+                                <img src={meter2} alt="" />
                                 <h5>Projects</h5>
                             </div>
                             <div className="item">
-                                <img src={meter3} alt="Image" />
+                                <img src={meter3} alt="" />
                                 <h5>Years of experience</h5>
                             </div>
                         </Carousel>
@@ -53,7 +53,7 @@ export const About = () => {
                 </div>
             </div>
         </div>
-        <img className="background-image-left" src={colorSharp} alt="Image" />
+        <img className="background-image-left" src={colorSharp} alt="" />
     </section>
   );
 };

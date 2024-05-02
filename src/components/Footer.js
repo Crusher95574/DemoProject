@@ -22,12 +22,12 @@ export const Footer = () => {
           </p>
         
           <div className="social-icon">
-            <a href="#"><img src={navIcon1} alt="Icon" /></a>
-            <a href="#"><img src={navIcon2} alt="Icon" /></a>
-            <a href="#"><img src={navIcon3} alt="Icon" /></a>
-            <a href="#"><img src={navIcon1} alt="Icon" /></a>
-            <a href="#"><img src={navIcon2} alt="Icon" /></a>
-            <a href="#"><img src={navIcon3} alt="Icon" /></a>
+            <a href=""><img src={navIcon1} alt="Icon" /></a>
+            <a href=""><img src={navIcon2} alt="Icon" /></a>
+            <a href=""><img src={navIcon3} alt="Icon" /></a>
+            <a href=""><img src={navIcon1} alt="Icon" /></a>
+            <a href=""><img src={navIcon2} alt="Icon" /></a>
+            <a href=""><img src={navIcon3} alt="Icon" /></a>
           </div>
         </Row>
       </Container>

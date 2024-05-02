@@ -81,7 +81,7 @@ export const Technology = () => {
           <div key={index} className="item">
             {/* Wrap title inside anchor tag */}
             <a href={item.resourceUrl} target="_blank" rel="noopener noreferrer">
-              <img src={item.imgUrl} alt="Image" />
+              <img src={item.imgUrl} alt="" />
               <h5>{item.title}</h5>
             </a>
           </div>
